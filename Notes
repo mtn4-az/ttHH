@@ -1,0 +1,3 @@
+To log in to the UChicago analysis facility from a terminal, do: 
+ssh -Y {username}@login.af.uchicago.edu
+and enter your password
